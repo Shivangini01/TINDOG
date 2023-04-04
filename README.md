@@ -1,2 +1,1 @@
-# TINDOG
-FIND YOUR DOG LOVE
+TinDog Starting Files
